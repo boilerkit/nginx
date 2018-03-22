@@ -1,0 +1,11 @@
+{
+    "name": "boilerkit/nginx",
+    "description": "nginx",
+    "authors": [
+        {
+            "name": "Branden Garrett",
+            "email": "branden.garrett@gmail.com"
+        }
+    ],
+    "require": {}
+}
